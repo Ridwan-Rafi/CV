@@ -1,0 +1,147 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.sidebar{
+    height:auto;
+    width:25%;
+    text-align: center;
+    float: left;
+}
+.prof{
+    background-image: url(profile.jpg);
+    background-size: cover;
+    height: 200px;
+    height: 300px
+}
+.contact{
+text-align: right;
+    background:#27272F;
+    padding-right: 25px;
+}
+.contact h3{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    color:#A7A35D;
+    font-size:20px;
+    margin-top:0px;
+    padding-top: 40px;
+}
+.contact p{
+    color:white;
+    font-size: 15px
+}
+.education{
+    display: block;
+    text-align: right;
+    background: #3E414A;
+    height: auto;
+    margin:0px;
+    padding-right:25px;
+}
+.education h3{
+    display: block;
+    overflow: hidden;
+    background: #C3A328;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-size:20px;
+    padding:8px;
+}
+.education p{
+    color:white;
+    font-size:17px;
+    font-family: sans-serif
+}
+.education h5,.education h6{
+    font-family: sans-serif;
+    font-size: 13px;
+    color:white;
+}
+.skill{
+    background: #27272F;
+    text-align: right;
+    padding-right: 25px;
+    font-family: sans-serif;
+}
+.skill h2{
+    color: #B4AA49;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.skill p{
+    color: white;
+    font-size:15px;
+}
+.copyright{
+    padding-top: 150px;
+    background: #3E414A;
+}
+.content{
+    background: #E9E9EB;
+    height:1150px;
+    width:73%;
+    float: right;
+    padding-left: 26px;
+    padding-top: 15px;
+    display: block;
+    overflow: hidden;
+}
+.content h1{
+    color:#2E2D32;
+    font-family: monospace;
+    letter-spacing: 2px;
+    font-size: 45px;
+    margin: 0px;
+}
+.content h3{
+    margin: 0px;
+    display: block;
+    padding: 8px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    color: #C9B35B;
+    background: #2F2E34;
+}
+.mid_dis{
+    margin-top:60px; 
+    padding: 5px;
+    background: #CEAA2F;
+    font-family: sans-serif;
+}
+.details h3{
+    font-family: monospace;
+    letter-spacing: 2px;
+    color: #28282A;
+    background: none;
+    font-size: 18px;
+    margin: 0px;
+    padding: 0;
+}
+.title{
+    margin: 0;
+    padding:0;
+    border-right:2px solid black;
+    height: auto;
+    width: 30%;
+    float: left;
+}
+.title section{
+    border-bottom:2px solid black;
+}
+.sec{
+    margin-top: 100px
+}
+.expl{
+    float: right;
+    width: 67%;
+    padding: 10px;
+}
+.expl hr{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
